@@ -1,3 +1,5 @@
+
+
 var CanvasParticle = (function(){
 	function getElementByTag(name){
 		return document.getElementsByTagName(name);
@@ -178,4 +180,4 @@ var CanvasParticle = (function(){
 		}
 	}
 	return canvasInit;
-})();
+})()
